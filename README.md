@@ -34,18 +34,18 @@ yarn test
 ## Project structure
 ```
 my-app-from-scratch/
-| node_modules/
-| public/
-  | index.html
-  | main.js
-| src/
- | App.j
- | index.js
- | .gitignore
- | .babelrc
- | webpack.config.js
- | yran.lock
- | package.json
+┣ node_modules/
+┣ public/
+  ┣ index.html
+  ┗ main.js
+┣ src/
+ ┣ App.j
+ ┗ index.js
+┣ .gitignore
+┣ .babelrc
+┣ webpack.config.js
+┣ yran.lock
+┗ package.json
 ```
 ## Author
 
