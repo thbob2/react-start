@@ -32,6 +32,7 @@ yarn test
 ```
 
 ## Project structure
+```
 my-app-from-scratch/
 | node_modules/
 | public/
@@ -45,7 +46,7 @@ my-app-from-scratch/
  | webpack.config.js
  | yran.lock
  | package.json
-
+```
 ## Author
 
 👤 **Chouaib Boubekeur**
