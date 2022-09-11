@@ -7,7 +7,7 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
   <a href="https://twitter.com/chouaib\_boe" target="_blank">
-    <img alt="Twitter: chouaib\_boe" src="https://img.shields.io/twitter/follow/chouaib\_boe.svg?style=social" />
+    <img alt="Twitter: chouaib_boe" src="https://img.shields.io/twitter/follow/chouaib\_boe.svg?style=social" />
   </a>
 </p>
 
