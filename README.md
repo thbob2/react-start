@@ -70,7 +70,7 @@ git push
 
 * Twitter: [@chouaib\_boe](https://twitter.com/chouaib\_boe)
 * Github: [@thbob2](https://github.com/thbob2)
-* LinkedIn: [@chouaib-boubekeur](https://linkedin.com/in/chouaib-boubekeur)
+* LinkedIn: [@chouaib-boubekeur](https://www.linkedin.com/in/chouaib-boubekeur)
 
 ## Show your support
 
